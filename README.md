@@ -211,17 +211,6 @@ Desarrollo de sistemas para la administración de:
 
 ---
 
-## 📊 GitHub Stats
-
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Panquecitoconmiel&show_icons=true&hide_border=true&theme=default" width="48%" alt="GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com/?user=Panquecitoconmiel&theme=default&hide_border=true&background=FADCE9&stroke=43302E&ring=C1DBE8&fire=C9A791&currStreakLabel=43302E" width="48%" alt="GitHub Streak" />
-
-</div>
----
 
 ## 💌 ¿Hablamos?
 
